@@ -1,0 +1,19 @@
+{
+    "name": "roddy/arkesel",
+    "description": "A Laravel package for Arkesel SMS API",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Roddy\\Arkesel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alfred Nti",
+            "email": "alfrednti5000@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
