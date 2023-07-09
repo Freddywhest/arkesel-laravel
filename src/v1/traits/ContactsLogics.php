@@ -24,13 +24,13 @@
            self::$api_key = env("ARKESEL_API_KEY");
         }
 
-        final public static function phoneBook(?string $phoneBook): self
+        final public static function phoneBook(string $phoneBook): self
         {
             self::$phone_book = $phoneBook;
             return new self;
         }
 
-        final public static function phoneNumber(?string $phoneNumber): self
+        final public static function phoneNumber(string $phoneNumber): self
         {
             self::$phone_number = $phoneNumber;
             return new self;
