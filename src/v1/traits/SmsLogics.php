@@ -10,7 +10,7 @@
         private static ?\DateTime $date = null;
         private static ?string $message = null;
         private $API_END_POINT = "https://sms.arkesel.com/sms/api";
-        private static $GUIDE_URL = "https://sms.arkesel.com/sms/api";
+        private static $GUIDE_URL = "https://freddywhest.github.io/laravel-arskesel/";
         public function __construct()
         {
             if(!env("ARKESEL_API_KEY") || env("ARKESEL_API_KEY") === null){

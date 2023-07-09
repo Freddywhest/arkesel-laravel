@@ -9,7 +9,7 @@ use Illuminate\Support\Facades\Http;
         private string $API_END_POINT_WITH_TEMPLATE = "https://sms.arkesel.com/api/v2/sms/template/send";
         private string $API_END_POINT_BALANCE = "https://sms.arkesel.com/api/v2/clients/balance-details";
         private string $API_END_POINT_SMS_DETAILS = "https://sms.arkesel.com/api/v2/sms";
-        private static $GUIDE_URL = "https://sms.arkesel.com/sms/api";
+        private static $GUIDE_URL = "https://freddywhest.github.io/laravel-arskesel/";
         private static ?string $api_key = null;
         private static ?string $callbackUrl = null;
         private static ?string $sender = null;

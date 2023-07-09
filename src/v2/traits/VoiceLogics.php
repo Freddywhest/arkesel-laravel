@@ -5,7 +5,7 @@
     trait VoiceLogics
     {
         private string $API_END_POINT_VOICE = "https://sms.arkesel.com/api/v2/sms/voice/send";
-        private static $GUIDE_URL = "https://sms.arkesel.com/sms/api";
+        private static $GUIDE_URL = "https://freddywhest.github.io/laravel-arskesel/";
         private static ?array $recipients = null;
         private static ?string $voice_file = null;
         private static ?string $api_key = null;

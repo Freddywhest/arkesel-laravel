@@ -8,7 +8,7 @@ use Illuminate\Support\Facades\Http;
         private string $API_END_POINT_GROUPS = "https://sms.arkesel.com/api/v2/contacts/groups";
         private string $API_END_POINT_CONTACTS = "https://sms.arkesel.com/api/v2/contacts";
         private string $API_END_POINT_CONTACT_GROUP = "https://sms.arkesel.com/api/v2/sms/send/contact-group";
-        private static $GUIDE_URL = "https://sms.arkesel.com/sms/api";
+        private static $GUIDE_URL = "https://freddywhest.github.io/laravel-arskesel/";
         private static ?string $group_name = null;
         private static ?array $contacts = null;
         private static ?string $sender = null;
