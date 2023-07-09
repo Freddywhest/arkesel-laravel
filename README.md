@@ -25,8 +25,8 @@
    ```
 
 ### Documentation
-Visit [Laravel Arkesel Package](#https://freddywhest.github.io/laravel-arskesel/) for documentation.
+Visit [Laravel Arkesel Package](https://freddywhest.github.io/laravel-arskesel/) for documentation.
 
 OR
 
-Use this link [https://freddywhest.github.io/laravel-arskesel/](#https://freddywhest.github.io/laravel-arskesel/)
+Use this link [https://freddywhest.github.io/laravel-arskesel/](https://freddywhest.github.io/laravel-arskesel/)
