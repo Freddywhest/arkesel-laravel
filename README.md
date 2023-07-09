@@ -6,7 +6,8 @@
 ## Table of Contents
 
 - [Installation](#installation)
-- [Documentation](#Documentation)
+- [Documentation](#documentation)
+- [License](#license)
 
 
 
@@ -30,3 +31,7 @@ Visit [Laravel Arkesel Package](https://freddywhest.github.io/laravel-arskesel/)
 OR
 
 Use this link [https://freddywhest.github.io/laravel-arskesel/](https://freddywhest.github.io/laravel-arskesel/)
+
+## License
+
+The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
